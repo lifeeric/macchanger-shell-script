@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Save the interface name in variable
 
 IF=$*
